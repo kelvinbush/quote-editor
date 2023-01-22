@@ -1,0 +1,23 @@
+# Indentation
+indent: 2
+
+# Alignment
+align_hash_keys: true
+align_hash_rockets: true
+align_arguments: true
+
+# Spacing
+space_after_comma: true
+space_before_colon: true
+space_after_colon: true
+space_around_operators: true
+space_inside_hash_braces: true
+
+# Parentheses
+space_inside_parentheses: true
+space_inside_brackets: true
+space_around_range_operator: true
+
+# Strings
+strip_trailing_whitespace: true
+strip_final_newline: true

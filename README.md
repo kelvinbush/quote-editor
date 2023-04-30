@@ -1,24 +1,32 @@
-# README
+# Quotes
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A single-page, reactive quote editor with only a single line of custom JavaScript for the flash message animation.
 
-Things you may want to cover:
+## Demo
 
-* Ruby version
+Check out the live app [here](https://calm-mountain-23772.herokuapp.com/)
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails
+- PostgresSQL
+- Hotwire
+- Turbo
+- 
+## 🤝 Contributing
 
-* Database creation
+Contributions, issues, and feature requests are welcome!
 
-* Database initialization
+Feel free to check the [issues page](../../issues/).
 
-* How to run the test suite
+## Show your support
 
-* Services (job queues, cache servers, search engines, etc.)
+Give a ⭐️ if you like this project!
 
-* Deployment instructions
+## Acknowledgments
 
-* ...
+- This web application UI design was inspired by [Gregoire Vella on Behance.](https://www.behance.net/gregoirevella)
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.

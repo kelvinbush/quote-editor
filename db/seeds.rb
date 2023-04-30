@@ -7,6 +7,6 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 puts "\n== Seeding the database =="
-kmpg = Company.create("KPMG")
+kmpg = Company.create(name: "KPMG")
 kmpg.users.create(email: "accountant@kpmg.com", :encrypted_password => Devise::Encryptor.digest(User, 'password'))
 

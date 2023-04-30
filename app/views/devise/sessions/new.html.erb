@@ -1,6 +1,6 @@
 <h2>Log in</h2>
-For demos: login details.
-email: accountant@kpmg.com
+For demos: login details. <br>
+email: accountant@kpmg.com <br>
 password: password
 <%= simple_form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
   <div class="form-inputs">
@@ -15,7 +15,7 @@ password: password
   </div>
 
   <div class="form-actions">
-    <%= f.button :submit, "Log in" %>
+    <%= f.button :submit, "Log in", class: 'btn' %>
   </div>
 <% end %>
 
